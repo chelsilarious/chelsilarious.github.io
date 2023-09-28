@@ -17,9 +17,7 @@ baseurl: ""
 
 navbar-links:
   About Me: ""
-  Publications: "publications"
   Blog:  "blog"
-  Resume: "resume"
 
 # --- Logo --- #
 
