@@ -8,7 +8,7 @@
 # Name of website
 title: Chelsea Chen
 url: "https://chelsilarious.github.io"
-baseurl: "main"
+baseurl: ""
 
 # Your name to show in the footer
 # author: Some Person
@@ -16,7 +16,7 @@ baseurl: "main"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "main"
+  About Me: ""
   Blog:  "blog"
 
 # --- Logo --- #
